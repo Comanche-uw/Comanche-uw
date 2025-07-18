@@ -23,7 +23,7 @@
   
 - 🌱 I’m currently learning <br> HTML, CSS, JavaScript y GitHub
   
-- 👯 I’m looking to collaborate on <br> Proyects
+- 👯 I’m looking to collaborate on <br> Projects
   
 - ⚡ Fun fact: <br> I really love cats but I can't have them :sleeping:
 
