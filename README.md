@@ -21,11 +21,11 @@
 
 - 🔭 I’m currently working on  <br> Soy Estudiante
   
-- 🌱 I’m currently learning HTML, CSS, JavaScript y GitHub
+- 🌱 I’m currently learning <br> HTML, CSS, JavaScript y GitHub
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on <br> Proyectos
   
-- ⚡ Fun fact: Me encantan los gatos pero no puedo tener
+- ⚡ Fun fact: <br> Me encantan los gatos pero no puedo tener
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
