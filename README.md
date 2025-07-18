@@ -9,7 +9,7 @@
 <h2> Connect with me
 <a href = 'https://www.instagram.com/sxnty.og/'> <img width = '32px' align= 'center' src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"/></a> 
 <a href = 'https://x.com/AtentadoVisual'> <img width = '32px' align= 'center' src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+<a href = santiagoog2004@gmail.com> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
   
 
 <div size='20px'> Hi! My name is Santiago. Thank You for taking the time to view my GitHub Profile :smile: 
