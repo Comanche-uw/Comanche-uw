@@ -7,7 +7,7 @@
 </p>
 <br
 <h2> Connect with me
-<a href = 'https://www.instagram.com/sxnty.og/'> <img width = '32px' align= 'center' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdtMnE3cTUyemJ2bWxmcTUxNHhieng1cGo3czRlM28wMWdsYmJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/49LReXKoRSbKxMzF9F/giphy.gif"/></a> 
+<a href = 'https://www.instagram.com/sxnty.og/'> <img width = '32px' align= 'center' src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"/></a> 
 <a href = 'https://x.com/AtentadoVisual'> <img width = '32px' align= 'center' src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"/></a> 
 <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
   
