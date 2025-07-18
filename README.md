@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 <br
-<h2> Connect with me <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg' width="100px"> </h2>
+<h2> Connect with me <img src='https://www.instagram.com/sxnty.og/' width="100px"> </h2>
 <a href = 'https://www.instagram.com/sxnty.og/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
