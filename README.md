@@ -17,7 +17,7 @@
 
 <h2> About Me <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpYXhxdWRuOHN1NTU3Z3lwM292dnRxNGh4bW1idjA1eGNpZDV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jud2FramM0ZmZ5OTNtdjlzOHlhZzV2Ymh1bThqNmQ3dzFpN2M1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdqIbjYYEvOxdWOblq/giphy.gif" />
+<img width="45%" align="right" alt="Github" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jud2FramM0ZmZ5OTNtdjlzOHlhZzV2Ymh1bThqNmQ3dzFpN2M1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdqIbjYYEvOxdWOblq/giphy.gif" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
