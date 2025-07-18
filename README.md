@@ -2,7 +2,7 @@
     <img width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhrcm9oc3dyaXQ2ZG5taHZsbGZnbGdhdTl5Z3Fwc2ZnbXBzOW4zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellaaaas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
