@@ -19,7 +19,7 @@
 
 <img width="45%" align="right" alt="Github" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jud2FramM0ZmZ5OTNtdjlzOHlhZzV2Ymh1bThqNmQ3dzFpN2M1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdqIbjYYEvOxdWOblq/giphy.gif" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently working on  <br> Soy Estudiante
   
 - 🌱 I’m currently learning HTML, CSS, JavaScript y GitHub
   
